@@ -12,6 +12,7 @@
 # Warm-up Challenges
 | Challenge       | Solution |
 |:---------------:|:--------:|
+[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)| [JavaScript](WarmUpChallenges/sockMerchant.js) |
 [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)| [JavaScript](WarmUpChallenges/countingValleys.js) |
 
 ---
