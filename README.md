@@ -8,3 +8,12 @@
 <p align="center">
   JavaScript solutions by <a alt="HackerRank Profile" href="https://www.hackerrank.com/marcosgustavobh" >Marcos Silva</a>
 </p>
+
+# Warm-up Challenges
+| Challenge       | Solution |
+|:---------------:|:--------:|
+[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)| [JavaScript](WarmUpChallenges/countingValleys.js) |
+
+---
+
+Thanks to user [Gabriel Giordan](https://github.com/gabrielgiordan) for the grid format used in this README file. You should also check his great solutions to HackerRank challenges.
