@@ -16,6 +16,7 @@
 [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)| [JavaScript](WarmUpChallenges/countingValleys.js) |
 [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)| [JavaScript](WarmUpChallenges/jumpingOnTheClouds.js) |
 [Repeated String](https://www.hackerrank.com/challenges/repeated-string)| [JavaScript](WarmUpChallenges/repeatedString.js) |
+---
 
 # Arrays
 | Challenge       | Solution |
