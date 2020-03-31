@@ -17,6 +17,14 @@
 [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)| [JavaScript](WarmUpChallenges/jumpingOnTheClouds.js) |
 [Repeated String](https://www.hackerrank.com/challenges/repeated-string)| [JavaScript](WarmUpChallenges/repeatedString.js) |
 
+# Arrays
+| Challenge       | Solution |
+|:---------------:|:--------:|
+[2D Array - DS](https://www.hackerrank.com/challenges/2d-array)| [JavaScript](Arrays/2dArray.js) |
 ---
 
-Thanks to user [Gabriel Giordan](https://github.com/gabrielgiordan) for the grid format used in this README file. You should also check his great solutions to HackerRank challenges.
+# String Manupulation
+| Challenge       | Solution |
+|:---------------:|:--------:|
+[Making Anagrams](https://www.hackerrank.com/challenges/alternating-characters)| [JavaScript](StringManipulation/makingAnagrams.js) |
+---
