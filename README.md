@@ -7,6 +7,8 @@
 </p>
 <p align="center">
   JavaScript solutions.
+</p>
+<p align="center">
   My HackerRank profile: <a alt="HackerRank Profile" href="https://www.hackerrank.com/marcosgustavobh">Marcos Silva</a>
 </p>
 
