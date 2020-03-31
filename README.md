@@ -6,7 +6,8 @@
 <p align="center">
 </p>
 <p align="center">
-  JavaScript solutions by <a alt="HackerRank Profile" href="https://www.hackerrank.com/marcosgustavobh" >Marcos Silva</a>
+  JavaScript solutions.
+  My HackerRank profile: <a alt="HackerRank Profile" href="https://www.hackerrank.com/marcosgustavobh">Marcos Silva</a>
 </p>
 
 # Warm-up Challenges
