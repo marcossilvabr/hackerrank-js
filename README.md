@@ -24,7 +24,7 @@
 [2D Array - DS](https://www.hackerrank.com/challenges/2d-array)| [JavaScript](Arrays/2dArray.js) |
 ---
 
-# String Manupulation
+# String Manipulation
 | Challenge       | Solution |
 |:---------------:|:--------:|
 [Making Anagrams](https://www.hackerrank.com/challenges/alternating-characters)| [JavaScript](StringManipulation/makingAnagrams.js) |
