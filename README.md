@@ -25,6 +25,7 @@
 | Challenge       | Solution |
 |:---------------:|:--------:|
 [2D Array - DS](https://www.hackerrank.com/challenges/2d-array)| [JavaScript](Arrays/2dArray.js) |
+[Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation)| [JavaScript](Arrays/leftRotation.js) |
 ---
 
 # String Manipulation
